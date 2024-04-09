@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">a Brazilian production engineer interested in data science</h3>
+<h3 align="center">a Brazilian production engineer learning Data Science</h3>
 
 - 😄 Pronouns **He/Him**
 
