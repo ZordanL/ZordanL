@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">a Brazilian production engineer interested in data science</h3>
 
+- 😄 Pronouns **He/Him**
+
 - 🔭 I’m currently working on **building up my GitHub profile with Data Science projects**
 
-- 🌱 I’m currently learning **Git, AWS and Python for EDA, Prediction and Clusterization**
+- 🌱 I’m currently learning **Python for EDA, Prediction, Clusterization and Machine Learning**
 
 - 👯 I’m looking to collaborate on **any Data Science projects**
 
-- 😄 Pronouns **He/Him**
+- 💬 Ask me about **anything data-science related - if I can't help you out, we can always learn together!**
 
-- 📫 How to reach me **connect on Linkedin**
+- 📫 How to reach me: **connect on Linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
